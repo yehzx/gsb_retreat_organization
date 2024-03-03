@@ -25,6 +25,7 @@ plugins:
   - glightbox
   - git-revision-date-localized:
       type: iso_datetime
+      timezone: Asia/Taipei
 
 nav:
   - Overview: 'index.md'
@@ -33,4 +34,3 @@ nav:
   - Event Planning: 'event_planning.md'
   - Artistic Design: 'artistic_design.md' 
   - Meeting Minutes: 'meeting_minutes.md'
-
