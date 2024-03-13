@@ -1,10 +1,10 @@
-### Regular meeting - 2024/03/27
+### Regular meeting - 2024/03/20 or 2024/03/28 (TBD)
 
-#### Time: 15:30-
+#### Time: TBD
 
 ### Regular meeting - 2024/03/06
 
-#### Time: 15:30-
+#### Time: 15:00-15:50
 
 #### Agenda
 1. What should be done before the 3 pre-event meetings (籌備會議)?

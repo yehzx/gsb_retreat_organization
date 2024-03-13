@@ -12,6 +12,7 @@ Candidate list (can add more later):
 | --- | --- | --- |
 | 喜來登 | 台北中正區 | [Room](https://www.sheratongrandtaipei.com/websev?lang=zh-tw){:target='_blank'}, [Venue](https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50&id=36){:target='_blank'}|
 | 喜來登 | 八里 | [Main page](https://www.fptpe.com/){:target='_blank'} |
+| 圓山 | 台北中山區 | [Room](https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=1544){:target='_blank'}, [Venue](https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP){:target='_blank'} |
 | 將捷酒店 | 淡水 | [Room](https://www.goldentulip-fabhotel.com.tw/room/){:target='_blank'}, [Venue](https://www.goldentulip-fabhotel.com.tw/meeting/){:target='_blank'}|
 | 福容 | 淡水 | [Room](https://www.fullon-hotels.com.tw/fw/tw/room/){:target='_blank'}, [Venue](https://www.fullon-hotels.com.tw/fw/tw/meeting/){:target='_blank'} |
 | 福容 | 福隆 | [Room](https://www.fullon-hotels.com.tw/fl/tw/room/){:target='_blank'}, [Venue](https://www.fullon-hotels.com.tw/fl/tw/meeting/){:target='_blank'} | 
@@ -36,7 +37,8 @@ Candidate list (can add more later):
 2. The place needs to be suitable for kids.  
 3. Budget: < 350k  
 4. Ask the pricing for roughly 70-80 people, half twin room, half quad room  
-5. About dining: 預備桌?
+5. Also ask the pricing for Saturday + Sunday.  
+6. About dining: 預備桌?
 <!-- * Deciding the venue
 * Reserving shuttle buses
 * Buying travel insurance? -->
