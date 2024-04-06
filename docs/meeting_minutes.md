@@ -1,6 +1,35 @@
-### Regular meeting - 2024/03/20 or 2024/03/28 (TBD)
+### Regular meeting - 2024/03/28
 
-#### Time: TBD
+#### Time: 15:30-15:45
+
+#### Summary
+1. Suggestions of time survey letter
+2. Candidate hotels for site inspection
+
+#### Action Item (TODO)
+1. Send emails to teachers to survey the potential dates (4/9)
+2. Ask hotels when we can go for site inspections
+
+
+### Regular meeting - 2024/03/20
+
+#### Time: 15:30-16:00
+
+#### Agenda
+1. Short report of current status
+
+#### Summary
+1. Discuss what to prepare before site inspection
+2. Discuss details about the faculty list and the potential pre-event meeting dates.  
+
+#### Action Item (TODO)
+1. Send emails to teachers and students to survey the potential dates (before end of March)
+2. Decide the list of hotels for site inspections (pick 3-5)
+3. Schedule the first pre-event meeting (middle or end of May)
+
+#### Next Meeting Agenda
+1. Present the quotations from the hotels and decide which to visit.
+2. Discuss the schedule for April.
 
 ### Regular meeting - 2024/03/06
 
@@ -24,5 +53,5 @@
 3. Get the faculty and student list (late March)
 
 #### Next Meeting Agenda
-1. Decide which hotels to go to for the site inspection
+1. Decide which hotels to go to for site inspections
 2. Google form and email content

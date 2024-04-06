@@ -3,7 +3,7 @@ Members: 胡昱庭 (Yu-Ting  Hu) and 謝雨彤 (Yu-Tung Hsieh)
 
 Google Drive: [Public Relations](https://drive.google.com/drive/folders/1Ck5u7ps8WYyGMOASCpvzt14xAPH7pndD){:target='_blank'}
 
-### Google Form and Email (before 3/27)
+### Google Form and Email (before 4/8)
 
 #### Description
 
@@ -14,6 +14,7 @@ Google Drive: [Public Relations](https://drive.google.com/drive/folders/1Ck5u7ps
 
     - Example:
     ![example](./images/email_example.png)
+
 <!-- * Survey
 * Announcement
 * Everything related to emails? -->

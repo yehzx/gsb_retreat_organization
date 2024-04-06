@@ -1,5 +1,7 @@
-## Schedule (last year)
-![](./images/image.png)
+## Schedule
+![](./images/schedule_new.png)
+
+[Chinese version](./images/schedule_new_ch.png){:target='_blank'}, [2023 Schedule](./images/image.png){:target='_blank'}
 
 ## Google Drive Links
 
