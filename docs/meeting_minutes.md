@@ -1,3 +1,20 @@
+### Committee meeting - 2024/05/23
+
+#### Time: 10:00-11:00
+
+#### Summary
+1. Taoyuan Yawart Resort (9/29-30)
+2. Add free hours (1.5-2 hours)
+3. Probably need to adjust the length of the talks and presentations (Currently: 23+5, 15+3)
+
+
+#### Action Item (TODO)
+1. Announcement of this year's location and dates
+2. Participation survey
+3. Program schedule planning
+4. Re-estimate the budget we need after the participation survey
+
+
 ### Regular meeting - 2024/03/28
 
 #### Time: 15:30-15:45

@@ -35,3 +35,6 @@ nav:
   - Artistic Design: 'artistic_design.md' 
   - Coordinator: 'coordinator.md'
   - Meeting Minutes: 'meeting_minutes.md'
+  - Past:
+    - Equipment: 'equipment_past.md'
+    - Public Relations: 'public_relations_past.md'

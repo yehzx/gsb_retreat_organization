@@ -4,26 +4,16 @@ Members: 張荷清 (Ho-Ching Chang) and Nguyen Hoang Phuong Uyen
 Google Drive: [Event Planning](https://drive.google.com/drive/folders/1qWYRhxHF_cTOeFAWCs1HA3WNLepQm_am){:target='_blank'}
 
 
-### Ideas for Happy Hours or Workshop (before 5/8)
+### Ideas for Happy Hours or Workshop (before 6/12)
 
 #### Description
 
-Think about possible activities that all attendees can participate in (about 2 hours). We may discuss
-the ideas after the seminar class.
+1. Think about possible activities that all attendees can participate in (**about 1 hour**). We may discuss in the line group.
+2. It would be great if the activities facilitate networking between students (or teachers).
 
-> Notes:  
-1. Saturday: poster section and lab promotion in Taipei, Sunday + Monday: retreat?  
-2. Five new PIs + Prof. Bor-Luen Chiang (Dean of College of Life Science) (6 talks in total)
 
-<!-- ### Event Program (before 5/12)
+### Plan the Happy Hours or Workshop (6/12 - 7/15)
 
 #### Description
- -->
 
-
-
-<!-- * Program planning
-* Routes
-* Poster ~ 13 people
-* Presentation ~20 people
-* -->
+1. Make your ideas concrete and plausible.

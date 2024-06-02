@@ -1,7 +1,7 @@
 
 Member: 葉政翔 (Zheng-Xiang Ye)
 
-~~* Faculty and student list (late March)~~  
-* Send email (4/9)  
-* Ask site inspection time  
-~~* Arrage the first pre-event meeting (early April)~~  
+* Participation survey at late June
+* Shuttle bus and poster boards
+* Program schedule
+* Ask the time of the next committee meeting (6/11-14)
